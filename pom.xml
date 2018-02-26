@@ -12,6 +12,7 @@
     <modules>
         <module>concurrency-semaphore</module>
         <module>concurrency-count-down-latch</module>
+        <module>concurrency-cyclic-barrier</module>
     </modules>
 
 </project>
