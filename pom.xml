@@ -14,6 +14,7 @@
         <module>concurrency-count-down-latch</module>
         <module>concurrency-cyclic-barrier</module>
         <module>concurrency-exchanger</module>
+        <module>concurrency-executor</module>
     </modules>
 
 </project>
