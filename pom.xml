@@ -15,6 +15,7 @@
         <module>concurrency-cyclic-barrier</module>
         <module>concurrency-exchanger</module>
         <module>concurrency-executor</module>
+        <module>concurrency-future-callable</module>
     </modules>
 
 </project>
