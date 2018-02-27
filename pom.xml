@@ -16,6 +16,7 @@
         <module>concurrency-exchanger</module>
         <module>concurrency-executor</module>
         <module>concurrency-future-callable</module>
+        <module>concurrency-lock</module>
     </modules>
 
 </project>
